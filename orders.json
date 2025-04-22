@@ -1,0 +1,20 @@
+[
+  {
+    "id": 101,
+    "userId": 1,
+    "item": "Laptop",
+    "price": 1200
+  },
+  {
+    "id": 102,
+    "userId": 2,
+    "item": "Camera",
+    "price": 800
+  },
+  {
+    "id": 103,
+    "userId": 3,
+    "item": "Server",
+    "price": 3000
+  }
+]
