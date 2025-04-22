@@ -1,8 +1,9 @@
 # IDOR Practice Lab
 
 ![Docker](https://img.shields.io/badge/Docker-ready-blue)
+![Node](https://img.shields.io/badge/node-20.x-brightgreen.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![CI](https://github.com/your‑username/idor-lab/actions/workflows/node.yml/badge.svg)
+![CI](https://github.com/yourusername/idor-lab/actions/workflows/node.yml/badge.svg?branch=main)
 
 A deliberately vulnerable REST API that lets you practice finding and exploiting
 Insecure Direct Object References (IDOR) / Broken Object Level Authorization (BOLA).
