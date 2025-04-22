@@ -1,0 +1,13 @@
+{
+  "name": "idor-lab",
+  "version": "1.0.0",
+  "description": "Deliberately vulnerable API with IDOR flaws for learning",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "jsonwebtoken": "^9.0.0"
+  }
+}
